@@ -67,6 +67,10 @@ sslcacert=/etc/pki/tls/certs/ca-bundle.crt
 sudo yum install grafana - y
 ```
 
+![Untitled (2)](https://user-images.githubusercontent.com/83824403/140372706-b5edfdf5-ef33-405f-af5a-b12b2247f290.png)
+
+
+
 **Installing the package will follow these steps:**
 
 - Install the library to **/usr/sbin/grafana-server**
