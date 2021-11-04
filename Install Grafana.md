@@ -24,6 +24,12 @@ vi /etc/sysconfig/selinux
 reboot
 ```
 
+
+
+![1 (3)](https://user-images.githubusercontent.com/83824403/140370778-ec028b15-5d1c-4635-97f3-24e054f10c17.png)
+
+
+
 ## Step 2: Install Grafana by YUM Repository
 
 **Create a repo file:** 📄📄
@@ -104,6 +110,10 @@ systemctl status grafana-server
 
 ```
 
+![2 (3)](https://user-images.githubusercontent.com/83824403/140371064-9295df95-bab5-4e6a-bfb9-241625a4a218.png)
+
+
+
 - If the service is **`down`**, start it with the following command:
 
 ```
@@ -131,5 +141,9 @@ firewall-cmd --reload
 ```
 http://ip_host/Grafana
 ```
+
+![yum (2)](https://user-images.githubusercontent.com/83824403/140371332-26aff968-dd3e-4f3b-bb70-0246e1b7c15f.png)
+
+
 
 ## WE'RE DONE, NOW ENJOY CÁI MOMENT NÀY ĐÃ 🤣🤣
