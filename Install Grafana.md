@@ -2,7 +2,7 @@
 
 **Author:** *Doan Van Phuc* 😎😎
 
-**Date of issue**: *Nov 4th 2021*🎞🎞
+**Date of issue**: *Nov 12th 2021*🎞🎞
 
 ## Step 1: Disable Selinux 🔐🔐
 
