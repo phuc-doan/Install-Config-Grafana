@@ -154,8 +154,11 @@ http://ip_host/Grafana
 - *IN the previous zabbix installation, we had the basics to add to grafana for easy monitoring, first log in to grafana's local host and follow the instructions below*
 
 
-- **If you havent install zabbix yet, please read docs and follow step by step with this tutorial
-`https://github.com/phuc-doan/Installl-Config-Zabbix`**
+- **If you havent install zabbix yet, please read docs and follow step by step with this tutorial**
+
+
+
+## https://github.com/phuc-doan/Installl-Config-Zabbix
 
 **Now follow steps below:**
 
