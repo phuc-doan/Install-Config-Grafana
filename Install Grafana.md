@@ -148,6 +148,50 @@ http://ip_host/Grafana
 
 ![yum (2)](https://user-images.githubusercontent.com/83824403/140371332-26aff968-dd3e-4f3b-bb70-0246e1b7c15f.png)
 
+## OK, now we will connect zabbix to Grafana
+🤝🤝
+
+- *IN the previous zabbix installation, we had the basics to add to grafana for easy monitoring, first log in to grafana's local host and follow the instructions below*
+
+
+- **If you havent install zabbix yet, please read docs and follow step by step with this tutorial
+`https://github.com/phuc-doan/Installl-Config-Zabbix`**
+
+**Now follow steps below:**
+
+#### ✔ 1) add plugins zabbix
+
+
+
+![Untitled (11)](https://user-images.githubusercontent.com/83824403/141450498-6d70d8c9-68c8-4676-a708-c2a74659d18e.png)
+
+
+
+#### ✔ 2) Add data sources   🛠🛠🛠
+
+   
+- note that: have to type correctly server address
+
+
+![Untitled (12)](https://user-images.githubusercontent.com/83824403/141450755-65710e6d-6c78-4108-8950-52c637d7af74.png)
+
+
+
+
+#### ✔ 3) go to dashboard 
+
+
+
+![Untitled (13)](https://user-images.githubusercontent.com/83824403/141450906-0cc46360-9886-4f12-af4b-e63e1ee2fef3.png)
+
+
+
+#### ✔ 4) and finally access the agents you want to manage in real time
+
+
+
+![Untitled (14)](https://user-images.githubusercontent.com/83824403/141451120-8062542a-68b6-462f-b9ad-598162a52f6f.png)
+
 
 
 ## WE'RE DONE, NOW ENJOY CÁI MOMENT NÀY ĐÃ 🤣🤣
